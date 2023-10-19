@@ -5,3 +5,17 @@ Dice Roll Game - v1.0<br/>
 </h2>
 
 <br/>
+
+## About Project
+
+It is a Dice Roll Game built with JavaScript, HTML & CSS.
+<br/>
+![Game UI](image.png)
+
+## Tools & Technologies
+
+- HTML
+- CSS3
+- JavaScript
+- VsCode
+- Git & GitHub
